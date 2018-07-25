@@ -11,7 +11,11 @@ function discountTicket(x){
 }
 
 function tweetReply (reply){
-  let reply= 
+  let reply = "Hey" +reply+ ", thanks so much for the support! I really appreciate it!;
+  
+  
+  
+  
   
   
  
