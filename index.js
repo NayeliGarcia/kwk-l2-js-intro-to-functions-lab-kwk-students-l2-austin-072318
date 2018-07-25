@@ -6,8 +6,8 @@ function getUKTime() {
 
 function discountTicket(x){
   let discount = x * 0.20
-  let fhb = x - discount
-  return fhb
+  let result = x - discount
+  return result
   
 }
  
