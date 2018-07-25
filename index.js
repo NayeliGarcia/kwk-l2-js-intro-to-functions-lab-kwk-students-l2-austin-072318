@@ -3,6 +3,11 @@
 function getUKTime() {
   return new Date().getHours() + 5
 }
+
+function discontTicket(x){
+  let result = x * 0.20
+  
+}
  
 
 
