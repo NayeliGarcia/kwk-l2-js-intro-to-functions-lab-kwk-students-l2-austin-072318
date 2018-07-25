@@ -8,7 +8,6 @@ function discountTicket(x){
   let discount = x * 0.20
   let result = x - discount
   return result
-  
 }
  
 
