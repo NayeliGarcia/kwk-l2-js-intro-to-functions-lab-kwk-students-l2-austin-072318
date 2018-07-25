@@ -9,6 +9,10 @@ function discountTicket(x){
   let result = x - discount
   return result
 }
+
+function tweetReply (reply){
+  let 
+  
  
 
 
